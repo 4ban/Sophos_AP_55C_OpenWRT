@@ -1,5 +1,5 @@
 # Tutorial moved: 
-[https://kru.cat/blog/sophos-ap55-openwrt](https://kru.cat/blog/sophos-ap55-openwrt)
+[https://dmitrykryukov.com/blog/sophos-ap55-openwrt](https://dmitrykryukov.com/blog/sophos-ap55-openwrt)
 
 # Tested using iMac 2011 and Macbook pro (M1 Pro)
 
